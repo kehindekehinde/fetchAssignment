@@ -1,0 +1,11 @@
+.container{
+    margin: 20px auto;
+    padding: 10px;
+    width: 40vw;
+    border: 2px solid purple;
+}
+#button{
+    padding: 5px;
+    background: purple;
+    color: white;
+}
